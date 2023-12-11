@@ -1,0 +1,5 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence
+{'apple'},{'banana'},0.75,0.4166666666666667,0.25,0.3333333333333333
+{'banana'},{'apple'},0.4166666666666667,0.75,0.25,0.6
+{'apple'},{'cherry'},0.75,0.75,0.6666666666666666,0.8888888888888888
+{'cherry'},{'apple'},0.75,0.75,0.6666666666666666,0.8888888888888888
